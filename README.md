@@ -30,4 +30,4 @@ Análisis para Zuber, una plataforma de viajes compartidos que se lanza en Chica
 Python · pandas · SciPy · Matplotlib · Seaborn · SQL
 
 ## Cómo verlo
-Abre `chicago_rain_impact_ohare.ipynb`: GitHub lo muestra con todos los resultados y gráficos. Los CSV de origen eran resultados de consultas SQL en la plataforma de TripleTen y no se incluyen.
+Abre `chicago_rain_impact_ohare.ipynb`: GitHub lo muestra con todos los resultados y gráficos. 
