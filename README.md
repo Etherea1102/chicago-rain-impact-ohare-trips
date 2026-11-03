@@ -1,8 +1,10 @@
 # Impacto de la lluvia en los tiempos de viaje al aeropuerto O'Hare | Python, SQL y SciPy
 
-**Hallazgo principal:** los viajes del centro de Chicago al aeropuerto O'Hare duran en promedio un 21% más los sábados lluviosos (~40 vs. ~33 minutos), una diferencia estadísticamente significativa.
+**Resumen:** la lluvia aumenta en 21% la duración de los viajes del centro al aeropuerto O'Hare los sábados (~40 vs. ~33 minutos), y el mercado de taxis está concentrado: Flash Cab hace casi el doble de viajes que su siguiente competidor.
 
-![Gráfico principal](grafico_principal.png)
+<img width="964" height="394" alt="Top 10 empresas de taxis por número de viajes" src="https://github.com/user-attachments/assets/ba76602c-334a-427c-a4a2-077955b6c449" />
+
+
 
 ## Contexto y pregunta de negocio
 Zuber, una plataforma de viajes compartidos, se lanzaba en Chicago y necesitaba entender los patrones de viaje de los pasajeros. ¿Qué empresas y destinos concentran la demanda? ¿Cambia la duración de los viajes al aeropuerto cuando llueve? Esto es clave para planificar flotas y estimar tiempos de llegada.
